@@ -22,7 +22,7 @@ xdg-open index.html    # Linux
 start index.html       # Windows
 ```
 
-Or play online: [GitHub Pages Link](https://njpeterson17.github.io/blackgame)
+Or play online: [GitHub Pages Link](https://njpeterson17.github.io/blackjack)
 
 ### Option 2: Command Line
 ```bash

@@ -13,6 +13,18 @@ A command-line Blackjack game written in Python. Play against the dealer, place 
 
 ## How to Play
 
+### Option 1: Web Browser (Easiest)
+Open `index.html` in your browser:
+```bash
+# Just double-click index.html or:
+open index.html        # Mac
+xdg-open index.html    # Linux
+start index.html       # Windows
+```
+
+Or play online: [GitHub Pages Link](https://njpeterson17.github.io/blackgame)
+
+### Option 2: Command Line
 ```bash
 python blackjack.py
 ```
